@@ -1,5 +1,5 @@
 # About Me:
-Software Engineer and Full Stack Developer specialized in the Next.js & MERN Stack (MongoDB, Express.js, React, Node.js). Passionate about building modern, scalable web applications with clean and efficient code.<br>Exploring AI/ML and Agentic AI to create intelligent, real-world solutions that enhance user experiences and automate complex tasks.<br>Continuously learning, building, and improving to stay ahead in the evolving tech landscape.
+Software Engineer and Frontend Developer specialized in the Next.js, React.js & MERN Stack (MongoDB, Express.js, React, Node.js). Passionate about building modern, scalable web applications with clean and efficient code.<br>Exploring AI/ML and Agentic AI to create intelligent, real-world solutions that enhance user experiences and automate complex tasks.<br>Continuously learning, building, and improving to stay ahead in the evolving tech landscape.
 
 
 ## 🌐 Socials:
